@@ -9,7 +9,7 @@ function Landing() {
         <span className="text-[#f56551]">Discover Your next Adventure with AI: </span>
         Personalized itineraries at your fingertips.
     </h1>
-    <p className="text-xl text-gray-500 text-center">Ypur personal trip planner and travel curator, creating custom trips tailored to your budget</p>
+    <p className="text-xl text-gray-500 text-center">Ypur personal trip planner and travel curator, creating custom trips tailored to your budget hehehehhe</p>
     <Link to={"/create-trip"}>
         <Button variant="outline">Get Started</Button>
     </Link>
